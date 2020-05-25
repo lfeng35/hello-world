@@ -1,3 +1,7 @@
 # hello-world
 
-I am Lin Feng from OPS435 class.
+LAB 1
+
+class: OPS435
+Student name: Lin Feng
+section: NCC
